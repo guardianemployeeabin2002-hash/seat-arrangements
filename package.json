@@ -1,0 +1,22 @@
+{
+  "name": "store-capsules",
+  "version": "1.0.0",
+  "description": "Store directory and updates for monitoring teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://x-access-token:eyJ0eXAiOiJKV1QiLCJraWQiOiJwRFpsK3MrTmZBTVBCeExqdXlka0dYK2JYV01xbFprc1U1RW1DUE1mQXVnIiwiYWxnIjoiSFMyNTYifQ.eyJzY29wZSI6InJlcG86YjVmNDQ4MTgtYzRkOS00ZTVkLTkwYjctMmE4NmE3OTM2ZjFmOndyaXRlIiwicmVwb19zbHVnIjoiYWJpbmJpbnUyMDAyMjEvc3RvcmUtY2Fwc3VsZXMtZmRhYzRmIiwiZXhwIjoxNzkyNTMyNTg5LCJpYXQiOjE3OTI1Mjg5ODl9.46fahuaUn2Vt44ZcTdS7DSNsI3PdNvZUjr_8XKOqE9o@hgit.services-prod.nsvcs.net/abinbinu200221/store-capsules-fdac4f.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@netlify/database": "^2.0.1",
+    "@netlify/functions": "^6.0.3",
+    "@netlify/identity": "^2.0.0"
+  }
+}
